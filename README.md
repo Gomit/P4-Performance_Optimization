@@ -9,7 +9,7 @@ Description
 
 Optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques picked up in the Critical Rendering Path course on [Udacity.com](https://www.udacity.com/course/ud884).
 
-To view the project, check out the repository and inspect the code,
+To view the project, check out the repository and inspect the code.
 
 ### Optimizations performed
 * [Optimized Performance](https://developers.google.com/web/fundamentals/performance/)
@@ -21,4 +21,4 @@ To view the project, check out the repository and inspect the code,
 
 Credits:
 ===============================
-###Based on Udacity.com HTML5 Canvas course.
+###Based on [Udacity.com](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [Website Performance Optimization](https://www.udacity.com/courses/ud884) and [Browser Rendering Optimization](https://www.udacity.com/courses/ud860).
