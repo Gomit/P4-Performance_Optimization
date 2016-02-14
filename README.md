@@ -21,4 +21,4 @@ To view the project, check out the repository and inspect the code.
 
 Credits:
 ===============================
-###Based on [Udacity.com](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001) [Website Performance Optimization](https://www.udacity.com/courses/ud884) and [Browser Rendering Optimization](https://www.udacity.com/courses/ud860).
+###Based on [Udacity.com](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001), [Website Performance Optimization](https://www.udacity.com/courses/ud884) and [Browser Rendering Optimization](https://www.udacity.com/courses/ud860).
